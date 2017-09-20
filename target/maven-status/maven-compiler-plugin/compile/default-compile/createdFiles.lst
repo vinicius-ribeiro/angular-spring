@@ -1,0 +1,3 @@
+br\com\adpmnet\conf\AppWebConfiguration.class
+br\com\adpmnet\conf\ServletSpringMVC.class
+br\com\adpmnet\controllers\HomeController.class
